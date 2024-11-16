@@ -5,6 +5,7 @@ Date: 11/14/2024
 Course: Operating Systems
 Professor: Dr. Burge
 Project 2: Sychronization Semaphores
+Current File: sem_processes.c
 ***/
 #include <stdio.h>
 #include <signal.h>
