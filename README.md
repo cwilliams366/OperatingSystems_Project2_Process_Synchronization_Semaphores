@@ -7,7 +7,7 @@
 ### Year: Fall 2024 
 ### Professor: Dr. Legand Burge 
 ### Project 2: Process Synchronization Semaphores
-## My Source Code Solution is in the **"sem_proecesses.c"**
+## My Source Code Solution is in the **"sem_processes.c"**
 # References Cited
 1. “How to Use POSIX Semaphores in C Language.” _GeeksforGeeks_, GeeksforGeeks, 11 Oct. 2024, 
   www.geeksforgeeks.org/use-posix-semaphores-c/.
